@@ -2,19 +2,19 @@
     "pensamentos": [
         {
             "id": 1,
-            "counteudo": "Que bom que está funcionando",
+            "conteudo": "Que bom que está funcionando",
             "autoria": "Juts",
             "modelo": "modelo1"
         },
         {
             "id": 2,
-            "counteudo": "Estudando Ângular",
+            "conteudo": "Estudando Ângular",
             "autoria": "Dev Alura",
             "modelo": "modelo2"
         },
         {
             "id": 3,
-            "counteudo": "Testando 1... 2... 3...",
+            "conteudo": "Testando 1... 2... 3...",
             "autoria": "Juts",
             "modelo": "modelo3"
         }
